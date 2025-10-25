@@ -80239,7 +80239,7 @@ a5y(a){var s=0,r=A.S(t.H),q=this,p,o,n,m,l,k
 var $async$nK=A.O(function(b,c){if(b===1)return A.P(c,r)
 for(;;)switch(s){case 0:n={}
 s=2
-return A.V(A.aRU(A.eQ("http://localhost:8080/events?day="+A.Ht("yyyy-MM-dd").lm(a),0,null)),$async$nK)
+return A.V(A.aRU(A.eQ("https://tempo-server-39080048679.europe-west1.run.app/events?day="+A.Ht("yyyy-MM-dd").lm(a),0,null)),$async$nK)
 case 2:m=c
 l=t.d
 k=t.kc.a(l.a(B.c2.DC(A.aRD(A.aPp(m.e)).eX(m.w),null)).i(0,"result"))
